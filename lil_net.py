@@ -45,7 +45,7 @@ def net():
             print(xtz_w, bch_w)
         update()
             
-cryptonet()
+net()
         
 
     
